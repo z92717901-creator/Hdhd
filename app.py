@@ -10,7 +10,7 @@ from telethon.sessions import StringSession
 # ================== الإعدادات ==================
 API_ID = 39932829
 API_HASH = "af065af801fedce625b300cee1cc7e53"
-SOURCE_BOT_ID = @Gg5677bot 
+SOURCE_BOT_ID = "@Gg5677bot" 
 
 # مفتاح الجلسة الخاص بك
 SESSION_STRING = "1ApWapzMBu7unu6O4wHY30mW1plFpKZOSTWLTCsgJyFyjYa1UwxSTAODTNmqQNxQfaNW71TLIxHySeorVvEPr31JbtdXyTp6i4ZDcvi0hBAa5a3lQYunvw9O5mPalQieos18iCZAKL44u5pWR7v6sMOqsYiBx-C9mC9x7tRClkEQXAFHRqpc_IsaE_5bCCx5NmVNZLMJtibeIUyrzFNDiBXFO67wUTTwmomaAJ2gx8rGxIcf4SJQhzq_dfSDDFIcttffXSr5bs1g2RKBRk3AqdTp6HHXPsEp5UuVihlbryYo9tKMp9x0n3Fl4Qai1K7CWXvgKP80WpS-h5OXWLTh3qP3twyei1sU="
